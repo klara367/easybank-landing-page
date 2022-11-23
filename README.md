@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-screenshot.jpg)
+![](./desktop-screenshot.png)
 
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://klara367.github.io/easybank-landing-page/](https://klara367.github.io/easybank-landing-page/)
 
 
 ### Built with
